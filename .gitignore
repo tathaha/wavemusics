@@ -1,0 +1,7 @@
+node_modules
+Lavalink.jar
+.vscode
+.prettierrc.json
+config.js
+application.yml
+.github
